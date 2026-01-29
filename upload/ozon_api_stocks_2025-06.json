@@ -1,0 +1,732 @@
+{
+  "data_type": "stocks",
+  "period": {
+    "from": "2025-06-01",
+    "to": "2025-06-30"
+  },
+  "downloaded_at": "2026-01-28T15:41:06.361369",
+  "items": [
+    {
+      "product_id": 1280146854,
+      "offer_id": "Коллаген",
+      "stocks": [
+        {
+          "type": "fbo",
+          "present": 77,
+          "reserved": 0,
+          "sku": 1774766972,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        },
+        {
+          "type": "fbs",
+          "present": 0,
+          "reserved": 0,
+          "sku": 1774766972,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    },
+    {
+      "product_id": 1280146855,
+      "offer_id": "Сакрус_Изи",
+      "stocks": [
+        {
+          "type": "fbo",
+          "present": 77,
+          "reserved": 0,
+          "sku": 1774766962,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        },
+        {
+          "type": "fbs",
+          "present": 0,
+          "reserved": 0,
+          "sku": 1774766962,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    },
+    {
+      "product_id": 1280146856,
+      "offer_id": "Физио+ кейс",
+      "stocks": [
+        {
+          "type": "fbo",
+          "present": 47,
+          "reserved": 1,
+          "sku": 1774766992,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        },
+        {
+          "type": "fbs",
+          "present": 0,
+          "reserved": 0,
+          "sku": 1774766992,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    },
+    {
+      "product_id": 1280146858,
+      "offer_id": "Комплект_изи_кейс",
+      "stocks": [
+        {
+          "type": "fbo",
+          "present": 68,
+          "reserved": 2,
+          "sku": 1774767026,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        },
+        {
+          "type": "fbs",
+          "present": 0,
+          "reserved": 0,
+          "sku": 1774767026,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    },
+    {
+      "product_id": 1280146859,
+      "offer_id": "Сакрус_Вибро",
+      "stocks": [
+        {
+          "type": "fbo",
+          "present": 57,
+          "reserved": 0,
+          "sku": 1774766986,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        },
+        {
+          "type": "fbs",
+          "present": 0,
+          "reserved": 0,
+          "sku": 1774766986,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    },
+    {
+      "product_id": 1280146863,
+      "offer_id": "Комплект_изи",
+      "stocks": [
+        {
+          "type": "fbo",
+          "present": 103,
+          "reserved": 1,
+          "sku": 1774766982,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        },
+        {
+          "type": "fbs",
+          "present": 0,
+          "reserved": 0,
+          "sku": 1774766982,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    },
+    {
+      "product_id": 1281273842,
+      "offer_id": "комплект_Эро",
+      "stocks": [
+        {
+          "type": "fbo",
+          "present": 7,
+          "reserved": 0,
+          "sku": 1775726260,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        },
+        {
+          "type": "fbs",
+          "present": 0,
+          "reserved": 0,
+          "sku": 1775726260,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    },
+    {
+      "product_id": 1302962441,
+      "offer_id": "Пояс турмалиновый",
+      "stocks": [
+        {
+          "type": "fbo",
+          "present": 57,
+          "reserved": 0,
+          "sku": 1793876928,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        },
+        {
+          "type": "fbs",
+          "present": 0,
+          "reserved": 0,
+          "sku": 1793876928,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    },
+    {
+      "product_id": 1302962446,
+      "offer_id": "Сакрус_Эро",
+      "stocks": [
+        {
+          "type": "fbo",
+          "present": 22,
+          "reserved": 0,
+          "sku": 1793876828,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        },
+        {
+          "type": "fbs",
+          "present": 0,
+          "reserved": 0,
+          "sku": 1793876828,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    },
+    {
+      "product_id": 1302962449,
+      "offer_id": "Кордус_изи",
+      "stocks": [
+        {
+          "type": "fbo",
+          "present": 154,
+          "reserved": 0,
+          "sku": 1793877007,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        },
+        {
+          "type": "fbs",
+          "present": 0,
+          "reserved": 0,
+          "sku": 1793877007,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    },
+    {
+      "product_id": 1302962453,
+      "offer_id": "кордус_вибро",
+      "stocks": [
+        {
+          "type": "fbo",
+          "present": 113,
+          "reserved": 0,
+          "sku": 1793876972,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        },
+        {
+          "type": "fbs",
+          "present": 0,
+          "reserved": 0,
+          "sku": 1793876972,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    },
+    {
+      "product_id": 1302962455,
+      "offer_id": "хондропротектор",
+      "stocks": [
+        {
+          "type": "fbo",
+          "present": 68,
+          "reserved": 0,
+          "sku": 1793876871,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        },
+        {
+          "type": "fbs",
+          "present": 0,
+          "reserved": 0,
+          "sku": 1793876871,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    },
+    {
+      "product_id": 1348336503,
+      "offer_id": "Тревел",
+      "stocks": [
+        {
+          "type": "fbo",
+          "present": 14,
+          "reserved": 0,
+          "sku": 1828646371,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        },
+        {
+          "type": "fbs",
+          "present": 0,
+          "reserved": 0,
+          "sku": 1828646371,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    },
+    {
+      "product_id": 1348336508,
+      "offer_id": "кейс",
+      "stocks": [
+        {
+          "type": "fbo",
+          "present": 15,
+          "reserved": 0,
+          "sku": 1828646366,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        },
+        {
+          "type": "fbs",
+          "present": 0,
+          "reserved": 0,
+          "sku": 1828646366,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    },
+    {
+      "product_id": 1348336516,
+      "offer_id": "перкуссионный",
+      "stocks": [
+        {
+          "type": "fbo",
+          "present": 28,
+          "reserved": 0,
+          "sku": 1828646386,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        },
+        {
+          "type": "fbs",
+          "present": 0,
+          "reserved": 0,
+          "sku": 1828646386,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    },
+    {
+      "product_id": 1398387962,
+      "offer_id": "арома",
+      "stocks": [
+        {
+          "type": "fbs",
+          "present": 0,
+          "reserved": 0,
+          "sku": 1867614347,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    },
+    {
+      "product_id": 2808452243,
+      "offer_id": "Corden_Yoga",
+      "stocks": [
+        {
+          "type": "fbo",
+          "present": 168,
+          "reserved": 2,
+          "sku": 2920956821,
+          "shipment_type": "SHIPMENT_TYPE_GENERAL",
+          "warehouse_ids": []
+        }
+      ]
+    }
+  ],
+  "raw_response": {
+    "items": [
+      {
+        "product_id": 1280146854,
+        "offer_id": "Коллаген",
+        "stocks": [
+          {
+            "type": "fbo",
+            "present": 77,
+            "reserved": 0,
+            "sku": 1774766972,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          },
+          {
+            "type": "fbs",
+            "present": 0,
+            "reserved": 0,
+            "sku": 1774766972,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      },
+      {
+        "product_id": 1280146855,
+        "offer_id": "Сакрус_Изи",
+        "stocks": [
+          {
+            "type": "fbo",
+            "present": 77,
+            "reserved": 0,
+            "sku": 1774766962,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          },
+          {
+            "type": "fbs",
+            "present": 0,
+            "reserved": 0,
+            "sku": 1774766962,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      },
+      {
+        "product_id": 1280146856,
+        "offer_id": "Физио+ кейс",
+        "stocks": [
+          {
+            "type": "fbo",
+            "present": 47,
+            "reserved": 1,
+            "sku": 1774766992,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          },
+          {
+            "type": "fbs",
+            "present": 0,
+            "reserved": 0,
+            "sku": 1774766992,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      },
+      {
+        "product_id": 1280146858,
+        "offer_id": "Комплект_изи_кейс",
+        "stocks": [
+          {
+            "type": "fbo",
+            "present": 68,
+            "reserved": 2,
+            "sku": 1774767026,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          },
+          {
+            "type": "fbs",
+            "present": 0,
+            "reserved": 0,
+            "sku": 1774767026,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      },
+      {
+        "product_id": 1280146859,
+        "offer_id": "Сакрус_Вибро",
+        "stocks": [
+          {
+            "type": "fbo",
+            "present": 57,
+            "reserved": 0,
+            "sku": 1774766986,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          },
+          {
+            "type": "fbs",
+            "present": 0,
+            "reserved": 0,
+            "sku": 1774766986,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      },
+      {
+        "product_id": 1280146863,
+        "offer_id": "Комплект_изи",
+        "stocks": [
+          {
+            "type": "fbo",
+            "present": 103,
+            "reserved": 1,
+            "sku": 1774766982,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          },
+          {
+            "type": "fbs",
+            "present": 0,
+            "reserved": 0,
+            "sku": 1774766982,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      },
+      {
+        "product_id": 1281273842,
+        "offer_id": "комплект_Эро",
+        "stocks": [
+          {
+            "type": "fbo",
+            "present": 7,
+            "reserved": 0,
+            "sku": 1775726260,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          },
+          {
+            "type": "fbs",
+            "present": 0,
+            "reserved": 0,
+            "sku": 1775726260,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      },
+      {
+        "product_id": 1302962441,
+        "offer_id": "Пояс турмалиновый",
+        "stocks": [
+          {
+            "type": "fbo",
+            "present": 57,
+            "reserved": 0,
+            "sku": 1793876928,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          },
+          {
+            "type": "fbs",
+            "present": 0,
+            "reserved": 0,
+            "sku": 1793876928,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      },
+      {
+        "product_id": 1302962446,
+        "offer_id": "Сакрус_Эро",
+        "stocks": [
+          {
+            "type": "fbo",
+            "present": 22,
+            "reserved": 0,
+            "sku": 1793876828,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          },
+          {
+            "type": "fbs",
+            "present": 0,
+            "reserved": 0,
+            "sku": 1793876828,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      },
+      {
+        "product_id": 1302962449,
+        "offer_id": "Кордус_изи",
+        "stocks": [
+          {
+            "type": "fbo",
+            "present": 154,
+            "reserved": 0,
+            "sku": 1793877007,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          },
+          {
+            "type": "fbs",
+            "present": 0,
+            "reserved": 0,
+            "sku": 1793877007,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      },
+      {
+        "product_id": 1302962453,
+        "offer_id": "кордус_вибро",
+        "stocks": [
+          {
+            "type": "fbo",
+            "present": 113,
+            "reserved": 0,
+            "sku": 1793876972,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          },
+          {
+            "type": "fbs",
+            "present": 0,
+            "reserved": 0,
+            "sku": 1793876972,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      },
+      {
+        "product_id": 1302962455,
+        "offer_id": "хондропротектор",
+        "stocks": [
+          {
+            "type": "fbo",
+            "present": 68,
+            "reserved": 0,
+            "sku": 1793876871,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          },
+          {
+            "type": "fbs",
+            "present": 0,
+            "reserved": 0,
+            "sku": 1793876871,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      },
+      {
+        "product_id": 1348336503,
+        "offer_id": "Тревел",
+        "stocks": [
+          {
+            "type": "fbo",
+            "present": 14,
+            "reserved": 0,
+            "sku": 1828646371,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          },
+          {
+            "type": "fbs",
+            "present": 0,
+            "reserved": 0,
+            "sku": 1828646371,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      },
+      {
+        "product_id": 1348336508,
+        "offer_id": "кейс",
+        "stocks": [
+          {
+            "type": "fbo",
+            "present": 15,
+            "reserved": 0,
+            "sku": 1828646366,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          },
+          {
+            "type": "fbs",
+            "present": 0,
+            "reserved": 0,
+            "sku": 1828646366,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      },
+      {
+        "product_id": 1348336516,
+        "offer_id": "перкуссионный",
+        "stocks": [
+          {
+            "type": "fbo",
+            "present": 28,
+            "reserved": 0,
+            "sku": 1828646386,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          },
+          {
+            "type": "fbs",
+            "present": 0,
+            "reserved": 0,
+            "sku": 1828646386,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      },
+      {
+        "product_id": 1398387962,
+        "offer_id": "арома",
+        "stocks": [
+          {
+            "type": "fbs",
+            "present": 0,
+            "reserved": 0,
+            "sku": 1867614347,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      },
+      {
+        "product_id": 2808452243,
+        "offer_id": "Corden_Yoga",
+        "stocks": [
+          {
+            "type": "fbo",
+            "present": 168,
+            "reserved": 2,
+            "sku": 2920956821,
+            "shipment_type": "SHIPMENT_TYPE_GENERAL",
+            "warehouse_ids": []
+          }
+        ]
+      }
+    ],
+    "total": 17,
+    "cursor": "WzI4MDg0NTIyNDMsMjgwODQ1MjI0M10="
+  }
+}

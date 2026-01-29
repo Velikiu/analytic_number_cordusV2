@@ -1,0 +1,279 @@
+{
+  "data_type": "postings_fbs",
+  "period": {
+    "from": "2025-08-01",
+    "to": "2025-08-31"
+  },
+  "downloaded_at": "2026-01-28T15:41:08.623818",
+  "items": [
+    {
+      "posting_number": "0176357300-0014-2",
+      "order_id": 30843268116,
+      "order_number": "0176357300-0014",
+      "status": "delivered",
+      "delivery_method": {
+        "id": 1020002387977000,
+        "name": "Доставка Ozon курьеру, Челябинск",
+        "warehouse_id": 1020002387977000,
+        "warehouse": "Челябинск",
+        "tpl_provider_id": 24,
+        "tpl_provider": "Доставка Ozon"
+      },
+      "tracking_number": "",
+      "tpl_integration_type": "ozon",
+      "in_process_at": "2025-08-09T18:47:10Z",
+      "shipment_date": "2025-08-09T13:00:00Z",
+      "delivering_date": "2025-08-11T09:24:20Z",
+      "cancellation": {
+        "cancel_reason_id": 0,
+        "cancel_reason": "",
+        "cancellation_type": "",
+        "cancelled_after_ship": false,
+        "affect_cancellation_rating": false,
+        "cancellation_initiator": ""
+      },
+      "customer": null,
+      "products": [
+        {
+          "price": "13176.0000",
+          "offer_id": "Комплект_изи",
+          "name": "Комплект массажеров для спины Cordus Plus для лечения спины, шеи и поясницы",
+          "sku": 1774766982,
+          "quantity": 1,
+          "currency_code": "RUB",
+          "is_blr_traceable": false,
+          "is_marketplace_buyout": false,
+          "imei": []
+        }
+      ],
+      "addressee": null,
+      "barcodes": null,
+      "analytics_data": {
+        "region": "",
+        "city": "",
+        "delivery_type": "PVZ",
+        "is_premium": false,
+        "payment_type_group_name": "Ozon Банк",
+        "warehouse_id": 1020002387977000,
+        "warehouse": "Челябинск",
+        "tpl_provider_id": 24,
+        "tpl_provider": "Доставка Ozon",
+        "delivery_date_begin": "2025-08-13T15:00:00Z",
+        "delivery_date_end": "2025-08-13T16:00:00Z",
+        "is_legal": false,
+        "client_delivery_date_begin": null,
+        "client_delivery_date_end": null
+      },
+      "financial_data": {
+        "products": [
+          {
+            "commission_amount": -3886.92,
+            "commission_percent": 29,
+            "payout": 9289.08,
+            "product_id": 1774766982,
+            "old_price": 17990,
+            "price": 13176,
+            "total_discount_value": 4814,
+            "total_discount_percent": 26.76,
+            "actions": [
+              "Бустинг 15% (ранее — «Бустинг х4»)",
+              "Скидка (за счет Озон) - DD by AI benefit system (Mesh)",
+              "Скидка (за счет Озон) - OA by AI benefit system (Mesh)",
+              "Округление",
+              "Товарная скидка на доставку (Сквозная экономика 5)",
+              "Системная виртуальная скидка селлера Россия (RUB)"
+            ],
+            "quantity": 1,
+            "currency_code": "RUB",
+            "customer_currency_code": "RUB",
+            "customer_price": 9034
+          }
+        ],
+        "cluster_from": "Екатеринбург",
+        "cluster_to": "Екатеринбург"
+      },
+      "is_express": false,
+      "requirements": {
+        "products_requiring_gtd": [],
+        "products_requiring_country": [],
+        "products_requiring_mandatory_mark": [],
+        "products_requiring_rnpt": [],
+        "products_requiring_jw_uin": [],
+        "products_requiring_change_country": [],
+        "products_requiring_imei": [],
+        "products_requiring_weight": []
+      },
+      "parent_posting_number": "",
+      "available_actions": [],
+      "multi_box_qty": 1,
+      "is_multibox": false,
+      "substatus": "posting_received",
+      "prr_option": "",
+      "quantum_id": 0,
+      "tariffication": {
+        "current_tariff_rate": 0,
+        "current_tariff_type": "",
+        "current_tariff_charge": "",
+        "current_tariff_charge_currency_code": "",
+        "next_tariff_rate": 0,
+        "next_tariff_type": "",
+        "next_tariff_charge": "",
+        "next_tariff_starts_at": null,
+        "next_tariff_charge_currency_code": ""
+      },
+      "destination_place_id": 0,
+      "destination_place_name": "",
+      "is_presortable": false,
+      "pickup_code_verified_at": null,
+      "optional": {
+        "products_with_possible_mandatory_mark": []
+      },
+      "legal_info": {
+        "company_name": "",
+        "inn": "",
+        "kpp": ""
+      },
+      "shipment_date_without_delay": "2025-08-10T14:59:00Z",
+      "require_blr_traceable_attrs": false,
+      "is_click_and_collect": false
+    }
+  ],
+  "raw_response": {
+    "result": {
+      "postings": [
+        {
+          "posting_number": "0176357300-0014-2",
+          "order_id": 30843268116,
+          "order_number": "0176357300-0014",
+          "status": "delivered",
+          "delivery_method": {
+            "id": 1020002387977000,
+            "name": "Доставка Ozon курьеру, Челябинск",
+            "warehouse_id": 1020002387977000,
+            "warehouse": "Челябинск",
+            "tpl_provider_id": 24,
+            "tpl_provider": "Доставка Ozon"
+          },
+          "tracking_number": "",
+          "tpl_integration_type": "ozon",
+          "in_process_at": "2025-08-09T18:47:10Z",
+          "shipment_date": "2025-08-09T13:00:00Z",
+          "delivering_date": "2025-08-11T09:24:20Z",
+          "cancellation": {
+            "cancel_reason_id": 0,
+            "cancel_reason": "",
+            "cancellation_type": "",
+            "cancelled_after_ship": false,
+            "affect_cancellation_rating": false,
+            "cancellation_initiator": ""
+          },
+          "customer": null,
+          "products": [
+            {
+              "price": "13176.0000",
+              "offer_id": "Комплект_изи",
+              "name": "Комплект массажеров для спины Cordus Plus для лечения спины, шеи и поясницы",
+              "sku": 1774766982,
+              "quantity": 1,
+              "currency_code": "RUB",
+              "is_blr_traceable": false,
+              "is_marketplace_buyout": false,
+              "imei": []
+            }
+          ],
+          "addressee": null,
+          "barcodes": null,
+          "analytics_data": {
+            "region": "",
+            "city": "",
+            "delivery_type": "PVZ",
+            "is_premium": false,
+            "payment_type_group_name": "Ozon Банк",
+            "warehouse_id": 1020002387977000,
+            "warehouse": "Челябинск",
+            "tpl_provider_id": 24,
+            "tpl_provider": "Доставка Ozon",
+            "delivery_date_begin": "2025-08-13T15:00:00Z",
+            "delivery_date_end": "2025-08-13T16:00:00Z",
+            "is_legal": false,
+            "client_delivery_date_begin": null,
+            "client_delivery_date_end": null
+          },
+          "financial_data": {
+            "products": [
+              {
+                "commission_amount": -3886.92,
+                "commission_percent": 29,
+                "payout": 9289.08,
+                "product_id": 1774766982,
+                "old_price": 17990,
+                "price": 13176,
+                "total_discount_value": 4814,
+                "total_discount_percent": 26.76,
+                "actions": [
+                  "Бустинг 15% (ранее — «Бустинг х4»)",
+                  "Скидка (за счет Озон) - DD by AI benefit system (Mesh)",
+                  "Скидка (за счет Озон) - OA by AI benefit system (Mesh)",
+                  "Округление",
+                  "Товарная скидка на доставку (Сквозная экономика 5)",
+                  "Системная виртуальная скидка селлера Россия (RUB)"
+                ],
+                "quantity": 1,
+                "currency_code": "RUB",
+                "customer_currency_code": "RUB",
+                "customer_price": 9034
+              }
+            ],
+            "cluster_from": "Екатеринбург",
+            "cluster_to": "Екатеринбург"
+          },
+          "is_express": false,
+          "requirements": {
+            "products_requiring_gtd": [],
+            "products_requiring_country": [],
+            "products_requiring_mandatory_mark": [],
+            "products_requiring_rnpt": [],
+            "products_requiring_jw_uin": [],
+            "products_requiring_change_country": [],
+            "products_requiring_imei": [],
+            "products_requiring_weight": []
+          },
+          "parent_posting_number": "",
+          "available_actions": [],
+          "multi_box_qty": 1,
+          "is_multibox": false,
+          "substatus": "posting_received",
+          "prr_option": "",
+          "quantum_id": 0,
+          "tariffication": {
+            "current_tariff_rate": 0,
+            "current_tariff_type": "",
+            "current_tariff_charge": "",
+            "current_tariff_charge_currency_code": "",
+            "next_tariff_rate": 0,
+            "next_tariff_type": "",
+            "next_tariff_charge": "",
+            "next_tariff_starts_at": null,
+            "next_tariff_charge_currency_code": ""
+          },
+          "destination_place_id": 0,
+          "destination_place_name": "",
+          "is_presortable": false,
+          "pickup_code_verified_at": null,
+          "optional": {
+            "products_with_possible_mandatory_mark": []
+          },
+          "legal_info": {
+            "company_name": "",
+            "inn": "",
+            "kpp": ""
+          },
+          "shipment_date_without_delay": "2025-08-10T14:59:00Z",
+          "require_blr_traceable_attrs": false,
+          "is_click_and_collect": false
+        }
+      ],
+      "has_next": false
+    }
+  }
+}

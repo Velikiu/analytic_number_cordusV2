@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Data files
+data/
+*.db
+*.sqlite
+
+# Uploaded files (optional - раскомментируйте если не хотите коммитить файлы)
+# upload/*.csv
+# upload/*.xlsx
+# upload/*.xls
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
